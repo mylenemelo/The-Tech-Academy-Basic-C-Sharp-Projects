@@ -1,2 +1,3 @@
-# The-Tech-Academy-Basic-C-Sharp-Projects
-Coding projects from The Tech Academy C# course.
+# The Tech Academy Basic C-Sharp Projects
+
+This repository contains the coding projects I complete during The Tech Academy Basic C# course.
