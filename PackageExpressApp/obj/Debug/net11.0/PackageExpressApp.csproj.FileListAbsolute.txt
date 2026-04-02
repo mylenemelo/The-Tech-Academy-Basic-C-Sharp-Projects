@@ -1,0 +1,15 @@
+C:\Users\clare\OneDrive\Documents\Mylene\The-Tech-Academy-Basic-C-Sharp-Projects\PackageExpressApp\bin\Debug\net11.0\PackageExpressApp.exe
+C:\Users\clare\OneDrive\Documents\Mylene\The-Tech-Academy-Basic-C-Sharp-Projects\PackageExpressApp\bin\Debug\net11.0\PackageExpressApp.deps.json
+C:\Users\clare\OneDrive\Documents\Mylene\The-Tech-Academy-Basic-C-Sharp-Projects\PackageExpressApp\bin\Debug\net11.0\PackageExpressApp.runtimeconfig.json
+C:\Users\clare\OneDrive\Documents\Mylene\The-Tech-Academy-Basic-C-Sharp-Projects\PackageExpressApp\bin\Debug\net11.0\PackageExpressApp.dll
+C:\Users\clare\OneDrive\Documents\Mylene\The-Tech-Academy-Basic-C-Sharp-Projects\PackageExpressApp\bin\Debug\net11.0\PackageExpressApp.pdb
+C:\Users\clare\OneDrive\Documents\Mylene\The-Tech-Academy-Basic-C-Sharp-Projects\PackageExpressApp\obj\Debug\net11.0\PackageExpressApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clare\OneDrive\Documents\Mylene\The-Tech-Academy-Basic-C-Sharp-Projects\PackageExpressApp\obj\Debug\net11.0\PackageExpressApp.AssemblyInfoInputs.cache
+C:\Users\clare\OneDrive\Documents\Mylene\The-Tech-Academy-Basic-C-Sharp-Projects\PackageExpressApp\obj\Debug\net11.0\PackageExpressApp.AssemblyInfo.cs
+C:\Users\clare\OneDrive\Documents\Mylene\The-Tech-Academy-Basic-C-Sharp-Projects\PackageExpressApp\obj\Debug\net11.0\PackageExpressApp.csproj.CoreCompileInputs.cache
+C:\Users\clare\OneDrive\Documents\Mylene\The-Tech-Academy-Basic-C-Sharp-Projects\PackageExpressApp\obj\Debug\net11.0\PackageExpressApp.sourcelink.json
+C:\Users\clare\OneDrive\Documents\Mylene\The-Tech-Academy-Basic-C-Sharp-Projects\PackageExpressApp\obj\Debug\net11.0\PackageExpressApp.dll
+C:\Users\clare\OneDrive\Documents\Mylene\The-Tech-Academy-Basic-C-Sharp-Projects\PackageExpressApp\obj\Debug\net11.0\refint\PackageExpressApp.dll
+C:\Users\clare\OneDrive\Documents\Mylene\The-Tech-Academy-Basic-C-Sharp-Projects\PackageExpressApp\obj\Debug\net11.0\PackageExpressApp.pdb
+C:\Users\clare\OneDrive\Documents\Mylene\The-Tech-Academy-Basic-C-Sharp-Projects\PackageExpressApp\obj\Debug\net11.0\PackageExpressApp.genruntimeconfig.cache
+C:\Users\clare\OneDrive\Documents\Mylene\The-Tech-Academy-Basic-C-Sharp-Projects\PackageExpressApp\obj\Debug\net11.0\ref\PackageExpressApp.dll
